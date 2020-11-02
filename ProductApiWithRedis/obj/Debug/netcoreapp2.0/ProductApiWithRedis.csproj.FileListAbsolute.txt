@@ -1,0 +1,11 @@
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\ProductApiWithRedis.deps.json
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\ProductApiWithRedis.runtimeconfig.json
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\ProductApiWithRedis.runtimeconfig.dev.json
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\ProductApiWithRedis.dll
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\ProductApiWithRedis.pdb
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\ProductApiWithRedis.csprojAssemblyReference.cache
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\ProductApiWithRedis.csproj.CoreCompileInputs.cache
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\ProductApiWithRedis.AssemblyInfoInputs.cache
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\ProductApiWithRedis.AssemblyInfo.cs
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\ProductApiWithRedis.dll
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\ProductApiWithRedis.pdb

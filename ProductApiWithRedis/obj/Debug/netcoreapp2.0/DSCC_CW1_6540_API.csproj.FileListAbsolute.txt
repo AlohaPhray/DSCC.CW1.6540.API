@@ -1,0 +1,11 @@
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\DSCC_CW1_6540_API.deps.json
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\DSCC_CW1_6540_API.runtimeconfig.json
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\DSCC_CW1_6540_API.runtimeconfig.dev.json
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\DSCC_CW1_6540_API.dll
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\bin\Debug\netcoreapp2.0\DSCC_CW1_6540_API.pdb
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\DSCC_CW1_6540_API.csprojAssemblyReference.cache
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\DSCC_CW1_6540_API.csproj.CoreCompileInputs.cache
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\DSCC_CW1_6540_API.AssemblyInfoInputs.cache
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\DSCC_CW1_6540_API.AssemblyInfo.cs
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\DSCC_CW1_6540_API.dll
+A:\Google Drive\University\Level6\Distributed Systems and Cloud Computing\CW\Solution\ProductApiWithRedis\ProductApiWithRedis\obj\Debug\netcoreapp2.0\DSCC_CW1_6540_API.pdb
